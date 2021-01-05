@@ -1,7 +1,7 @@
 # The name of the current backend
 name: 'Dev-Doctor'
 # The icon of the backend. Supported values are [png, jpg, svg, null]
-icon: svg
+icon: null
 # All courses of the current backend
 courses:
 - example
