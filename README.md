@@ -1,4 +1,4 @@
-# dev-doctor-courses
+# Dev-Doctor Backend
 
 > Courses backend for dev-doctor. Static site hosting is supported!
 
