@@ -1,5 +1,9 @@
 # The name of the current part. The name will stand on the sidebar
 name: Part 1
+
+# Optional: The description of the part
+description: This is a description
+
 # The content of the part.
 items:
 - name: Welcome
