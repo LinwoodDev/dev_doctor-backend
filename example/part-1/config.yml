@@ -16,6 +16,7 @@ items:
   questions:
   - title: Question 1 title
     description: Question 1 description
+    type: quiz
     answers:
     - name: A
       description: A description
