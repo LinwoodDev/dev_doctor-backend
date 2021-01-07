@@ -10,7 +10,7 @@ items:
   description: Welcome to the course
   type: video
   source: youtube
-  url: https://youtu.be/ScMzIvxBSi4
+  url: ScMzIvxBSi4
 - name: Text
   type: text
   text: >
