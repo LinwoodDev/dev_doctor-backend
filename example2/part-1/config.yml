@@ -1,11 +1,16 @@
 # The name of the current part. The name will stand on the sidebar
 name: Part 1
+
+# Optional: The description of the part
+description: This is a description
+
 # The content of the part.
 items:
 - name: Welcome
   description: Welcome to the course
   type: video
-  url: https://youtu.be/ScMzIvxBSi4
+  source: youtube
+  url: ScMzIvxBSi4
 - name: Text
   type: text
   text: >
@@ -17,14 +22,11 @@ items:
   questions:
   - title: Question 1 title
     description: Question 1 description
+    evaluation: An evaluation
     answers:
     - name: A
-      description: A description
     - name: B
-      description: B description
     - name: C
-      description: C is correct
       correct: true
     - name: D
-      description: Multiple correct answers are also possible
       correct: true
