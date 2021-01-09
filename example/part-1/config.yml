@@ -27,6 +27,18 @@ items:
     - name: A
     - name: B
     - name: C
+      points: 5
       correct: true
     - name: D
+      points: 2
       correct: true
+  - title: Question 2 title
+    description: Question 2 description
+    evaluation: An evaluation for question 2
+    answers:
+    - name: A
+      correct: true
+    - name: B
+      correct: true
+    - name: C
+    - name: D
