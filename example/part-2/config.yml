@@ -4,6 +4,9 @@ name: Part 2
 # Optional: The description of the part
 description: This is a description
 
+# Assets which will be cached if the user is offline. The assets need to be in the asset directory
+assets: []
+
 # The content of the part.
 items:
 - name: Welcome
