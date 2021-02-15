@@ -6,3 +6,5 @@ icon: png
 courses:
 - example
 - example2
+body: |
+  This is an example backend to demonstrate the functionality of the app.
