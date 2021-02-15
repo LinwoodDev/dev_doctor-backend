@@ -1,6 +1,6 @@
 {
     "name": "Dev-Doctor",
-    "icon": null,
+    "icon": "png",
     "courses": [
       "example",
       "example2"
