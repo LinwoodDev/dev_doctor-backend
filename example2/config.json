@@ -1,0 +1,13 @@
+{
+    "icon": null,
+    "name": "Example course 2",
+    "author": "CodeDoctorDE",
+    "description": "This course is only an example which shows how this config works -- 2\n",
+    "body": "This is the body\n",
+    "category": [],
+    "lang": "en",
+    "private": true,
+    "parts": [
+      "part-1"
+    ]
+  }
