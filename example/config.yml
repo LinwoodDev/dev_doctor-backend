@@ -70,7 +70,7 @@ category: []
 lang: en
 
 # Controls if the course is shown in the list
-private: true
+private: false
 
 # The course. See the preview to understand all config entries
 parts:
