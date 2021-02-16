@@ -8,6 +8,8 @@ name: Example course
 
 # The author. It will appear on the front page and on the courses list
 author: CodeDoctorDE
+author_url: https://github.com/CodeDoctorDE
+author_avatar: https://avatars1.githubusercontent.com/u/20452814?v=4
 
 # The description of the course which can be seen in the list of the courses and the intro page.
 description: >
