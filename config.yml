@@ -1,10 +1,11 @@
 # The name of the current backend
-name: 'Dev-Doctor'
+name: "Dev-Doctor"
 # The icon of the backend. Supported values are [png, jpg, svg, null]
 icon: png
 # All courses of the current backend
 courses:
-- example
-- example2
+  - example
+  - example2
+support_url: https://discord.linwood.tk
 body: |
   This is an example backend to demonstrate the functionality of the app.
