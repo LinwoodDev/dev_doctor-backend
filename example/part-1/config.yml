@@ -12,8 +12,8 @@ items:
 - name: Welcome
   description: Welcome to the course
   type: video
-  source: youtube
-  url: ScMzIvxBSi4
+  source: url
+  url: https://backend.dev-doctor.cf/example/part-1/assets/video.mp4
 - name: Text
   type: text
   text: >
