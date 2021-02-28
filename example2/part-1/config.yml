@@ -9,11 +9,6 @@ assets: []
 
 # The content of the part.
 items:
-- name: Welcome
-  description: Welcome to the course
-  type: video
-  source: youtube
-  url: ScMzIvxBSi4
 - name: Text
   type: text
   text: >
