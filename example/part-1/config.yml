@@ -13,7 +13,7 @@ items:
   description: Welcome to the course
   type: video
   source: url
-  url: https://backend.dev-doctor.cf/example/part-1/assets/video.mp4
+  url: https://backend.dev-doctor.linwood.dev/example/part-1/assets/video.mp4
 - name: Text
   type: text
   text: >
